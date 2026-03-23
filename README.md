@@ -2,6 +2,10 @@
 
 Add your names here in the readme file.
 
+## Code Examples
+
+The [`examples/`](examples/) directory contains code samples that demonstrate good coding practices, such as using descriptive variable and function names. See [`examples/naming-best-practices.js`](examples/naming-best-practices.js) for a side-by-side comparison of vague vs. descriptive names.
+
 1. Steev James
 2. Richard Davis
 3. Eibel
