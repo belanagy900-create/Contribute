@@ -2,6 +2,10 @@
 
 Add your names here in the readme file.
 
+## Descriptive Naming Example
+
+See [`naming-example.js`](./naming-example.js) for a before/after illustration of how to use descriptive variable and function names instead of short, vague identifiers.
+
 1. Steev James
 2. Richard Davis
 3. Eibel
